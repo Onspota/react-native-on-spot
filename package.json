@@ -1,7 +1,7 @@
 {
   "name": "react-native-on-spot",
   "title": "React Native On Spot",
-  "version": "1.19.7",
+  "version": "1.20.7",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-on-spot.git",
-    "baseUrl": "https://github.com/github_account/react-native-on-spot"
+    "url": "git+https://github.com/Onspota/react-native-on-spot.git",
+    "baseUrl": "https://github.com/Onspota/react-native-on-spot"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Tomer Lavi",
+    "email": "tomer@assist.co.il"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
