@@ -1,4 +1,6 @@
-# react-native-on-spot
+OnSpota React - Native Plug for Android 
+======================================================================
+# (Android SDK Version 1.19.13)
 
 ## Getting started
 
